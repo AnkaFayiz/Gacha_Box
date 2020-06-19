@@ -1,4 +1,4 @@
 # Gacha_Box
-This is my first time learning about Coding and using Github 
 
-:)) 
+Hello My name is Anka. I like Programming. Now, I'am learning python language
+This is my first time learning about python and github
