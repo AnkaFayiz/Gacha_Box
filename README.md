@@ -1,2 +1,4 @@
 # Gacha_Box
-First Time
+This is my first time learning about Coding and using Github 
+
+:)) 
